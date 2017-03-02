@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is 52A7-8DAD
+
+ Directory of C:\Users\filip\workspace\BacthTest
+
+2017-02-22  11:21 AM    <DIR>          .
+2017-02-22  11:21 AM    <DIR>          ..
+2017-01-26  10:57 AM               114 ComLineArgs.bat
+2017-01-26  10:11 AM               160 DeleteAllFiles.bat
+2017-02-22  11:21 AM                 0 e.isEmpty())
+2017-02-16  11:56 AM               217 ListFiles.bat
+2017-02-24  10:47 AM                 0 lists.txt
+2017-02-16  11:50 AM               175 LocalAndGlobalVar.bat
+2017-02-16  11:21 AM               109 VariousTests.bat
+               7 File(s)            775 bytes
+               2 Dir(s)  932,655,456,256 bytes free
